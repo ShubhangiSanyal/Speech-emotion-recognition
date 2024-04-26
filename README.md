@@ -21,8 +21,8 @@ End-to-End Speech Emotion Recognition Project using various datasets to classify
 
 <br> Best model deployed locally using **Streamlit**.
 
-## Project Group members:
-- Saikat Bera (https://github.com/berasaikat)
-- Shreyan Chakraborty (https://github.com/shreyanc07)
-- Sayantan Mondal (https://github.com/msayantanm)
-- Shubhangi Sanyal (https://github.com/ShubhangiSanyal)
+## Contributing members:
+- [Saikat Bera](https://github.com/berasaikat)
+- [Shreyan Chakraborty](https://github.com/shreyanc07)
+- [Sayantan Mondal](https://github.com/msayantanm)
+- [Shubhangi Sanyal](https://github.com/ShubhangiSanyal)
