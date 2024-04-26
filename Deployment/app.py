@@ -14,8 +14,13 @@ if audio_file is not None:
     with open(audio_path, "wb") as f:
         f.write(audio_file.read())
 
-    # Predict the emotion
-    emotion = predict_emotion(audio_path)
+    # Add an audio player to play the uploaded audio file
+    st.audio(audio_file)
 
-    # Display the predicted emotion
-    st.write(f"Predicted Emotion: {emotion}")
+    # Add a button to predict emotion
+    if st.button("Predict Emotion"):
+        # Predict the emotion
+        emotion = predict_emotion(audio_path)
+
+        # Display the predicted emotion
+        st.write(f"Predicted Emotion: {emotion}")
