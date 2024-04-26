@@ -7,6 +7,14 @@ End-to-End Speech Emotion Recognition Project using various datasets to classify
 - "[Surrey Audio-Visual Expressed Emotion (SAVEE)](https://www.kaggle.com/datasets/ejlok1/surrey-audiovisual-expressed-emotion-savee)" by [University of Surrey](http://kahlan.eps.surrey.ac.uk/savee/Database.html).
 - "[Toronto emotional speech set (TESS)](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess)" by [University of Toronto](https://tspace.library.utoronto.ca/handle/1807/24487).
 
+## Emotion Categories:
+| Code | Emotion |   | Code | Emotion |
+|------|---------|---|------|---------|
+| 1    | Neutral |   | 5    | Angry   |
+| 2    | Calm    |   | 6    | Fear    |
+| 3    | Happy   |   | 7    | Disgust |
+| 4    | Sad     |   | 8    | Surprise|
+
 ## Models experimented with:
 - CNN
 - Transformer
