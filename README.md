@@ -1,7 +1,7 @@
 # Speech-emotion-recognition
 End-to-End Speech Emotion Recognition Project using various datasets to classify speech audio into different categories of emotions.
 
-## Dataset used: 
+## Datasets used: 
 - "[The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)" by Livingstone & Russo is licensed under CC BY-NA-SC 4.0.
 - "[CREMA-D](https://www.kaggle.com/datasets/ejlok1/cremad)" by [David Cooper Cheyney](https://github.com/CheyneyComputerScience/CREMA-D)
 - "[Surrey Audio-Visual Expressed Emotion (SAVEE)](https://www.kaggle.com/datasets/ejlok1/surrey-audiovisual-expressed-emotion-savee)" by [University of Surrey](http://kahlan.eps.surrey.ac.uk/savee/Database.html).
