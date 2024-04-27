@@ -8,7 +8,7 @@ st.title("Emotion Prediction from Speech")
 st.subheader("Emotion Categories")
 
 # Define the list of emotions
-emotions = {1: 'Neutral', 2: 'Calm', 3: 'Happy', 4: 'Sad', 5: 'Angry', 6: 'Fear', 7: 'Disgust', 8: 'Surprise'}
+emotions = {1: 'Neutral', 2: 'Happy', 3: 'Sad', 4: 'Angry', 5: 'Fear', 6: 'Disgust', 7: 'Surprise'}
 
 # Create the first row with four columns
 col1, col2, col3, col4 = st.columns(4)
@@ -24,7 +24,7 @@ with col4:
     st.write(f"{4}: {emotions[4]}")
 
 # Create the second row with four columns
-col5, col6, col7, col8 = st.columns(4)
+col5, col6, col7 = st.columns(3)
 
 # Display the remaining four emotions in the second row
 with col5:
@@ -33,8 +33,6 @@ with col6:
     st.write(f"{6}: {emotions[6]}")
 with col7:
     st.write(f"{7}: {emotions[7]}")
-with col8:
-    st.write(f"{8}: {emotions[8]}")
 
 # Add a file uploader widget
 audio_file = st.file_uploader("Upload an audio file", type=["wav", "mp3", "ogg", "flac"])
