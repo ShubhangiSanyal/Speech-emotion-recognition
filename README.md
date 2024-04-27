@@ -10,14 +10,16 @@ End-to-End Speech Emotion Recognition Project using various datasets to classify
 ## Emotion Categories:
 | Code | Emotion |   | Code | Emotion |
 |------|---------|:-:|------|---------|
-| 1    | Neutral |   | 5    | Angry   |
-| 2    | Calm    |   | 6    | Fear    |
-| 3    | Happy   |   | 7    | Disgust |
-| 4    | Sad     |   | 8    | Surprise|
+| 1    | Neutral |   | 5    |  Fear   |
+| 2    |  Happy  |   | 6    | Disgust |
+| 3    |   Sad   |   | 7    |Surprise | 
+| 4    |  Angry  |   |      |         |
 
 ## Models experimented with:
 - CNN
 - Transformer
+- NN
+- LSTM
 
 <br> Best model deployed locally using **Streamlit**.
 
