@@ -21,6 +21,15 @@ End-to-End Speech Emotion Recognition Project using various datasets to classify
 - NN
 - LSTM
 
+## Accuracy Metrics:
+| Model            | Epochs | Accuracy |
+|------------------|--------|----------|
+| CNN              | 50     | 97%      | 
+| CLSTM            | 130    | 82%      | 
+| Neural Network   | 1000   | 80%      |  
+| Transformer      | 500    | 75%      |  
+
+
 <br> Best model deployed locally using **Streamlit**.
 
 ## Contributing members:
