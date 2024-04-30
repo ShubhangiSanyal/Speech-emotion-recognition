@@ -3,9 +3,9 @@ End-to-End Speech Emotion Recognition Project using various datasets to classify
 
 ## Datasets used: 
 - "[The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)](https://zenodo.org/records/1188976)" by Livingstone & Russo is licensed under CC BY-NA-SC 4.0.
-- "[CREMA-D]" by [David Cooper Cheyney](https://github.com/CheyneyComputerScience/CREMA-D)
-- "[Surrey Audio-Visual Expressed Emotion (SAVEE)]" by [University of Surrey](http://kahlan.eps.surrey.ac.uk/savee/Database.html).
-- "[Toronto emotional speech set (TESS)]" by [University of Toronto](https://tspace.library.utoronto.ca/handle/1807/24487).
+- "CREMA-D" by [David Cooper Cheyney](https://github.com/CheyneyComputerScience/CREMA-D)
+- "Surrey Audio-Visual Expressed Emotion (SAVEE)" by [University of Surrey](http://kahlan.eps.surrey.ac.uk/savee/Database.html).
+- "Toronto emotional speech set (TESS)" by [University of Toronto](https://tspace.library.utoronto.ca/handle/1807/24487).
 
 ## Emotion Categories:
 | Code | Emotion |   | Code | Emotion |
